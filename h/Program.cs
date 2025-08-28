@@ -4,9 +4,9 @@ Console.WriteLine("Hola, World!");
 
 public class Heroes
 {
-    public int id; 
+    public int id;
 }
-public class doctor {
-
+public class Doctores
+{ 
     
-}
+ }
